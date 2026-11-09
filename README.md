@@ -1,5 +1,7 @@
 # SuperMercado · Gestión de inventario
 
+Sitio publicado: https://matiasmjcs.github.io/supermercado-matias-mejias-pfy2202/
+
 Sitio web para gestionar el inventario de un supermercado, desarrollado con React, React Router y Tailwind CSS para la asignatura Desarrollo Frontend II (PFY2202).
 
 ## Funcionalidades
