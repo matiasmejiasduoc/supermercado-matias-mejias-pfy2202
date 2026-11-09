@@ -1,0 +1,1 @@
+import{n as e}from"./index-EW5PqfNL.js";var t=e();function n({stock:e}){return e===0?(0,t.jsx)(`span`,{className:`font-medium text-red-600`,children:`Agotado`}):e<=10?(0,t.jsx)(`span`,{className:`font-medium text-yellow-600`,children:e}):(0,t.jsx)(`span`,{children:e})}export{n as t};

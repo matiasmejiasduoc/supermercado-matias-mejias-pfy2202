@@ -1,0 +1,1 @@
+import{t as e}from"./ButtonLink-B1-dwf3F.js";import{t}from"./EmptyState-DNREuVee.js";import{n}from"./index-EW5PqfNL.js";var r=n();function i(){return(0,r.jsx)(t,{title:`Página no encontrada`,children:(0,r.jsx)(e,{to:`/`,children:`Volver al inicio`})})}export{i as default};

@@ -1,0 +1,1 @@
+import{n as e}from"./index-EW5PqfNL.js";var t=e();function n({title:e,description:n,children:r}){return(0,t.jsxs)(`div`,{className:`card px-6 py-10 text-center`,children:[(0,t.jsx)(`p`,{className:`font-semibold`,children:e}),n&&(0,t.jsx)(`p`,{className:`mt-1 text-sm text-gray-500`,children:n}),r&&(0,t.jsx)(`div`,{className:`mt-4`,children:r})]})}export{n as t};

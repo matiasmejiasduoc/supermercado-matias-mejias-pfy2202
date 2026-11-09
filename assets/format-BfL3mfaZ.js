@@ -1,0 +1,1 @@
+var e=new Intl.NumberFormat(`es-CL`,{style:`currency`,currency:`CLP`,maximumFractionDigits:0}),t=t=>e.format(t);export{t};

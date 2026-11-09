@@ -1,0 +1,1 @@
+var e=[{id:`frutas-verduras`,name:`Frutas y verduras`},{id:`lacteos`,name:`Lácteos`},{id:`panaderia`,name:`Panadería`},{id:`carnes`,name:`Carnes`},{id:`bebidas`,name:`Bebidas`},{id:`despensa`,name:`Despensa`},{id:`limpieza`,name:`Limpieza`}],t=t=>e.find(e=>e.id===t)?.name??`Sin categoría`;export{t as n,e as t};

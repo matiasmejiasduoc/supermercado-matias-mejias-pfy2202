@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./index-EW5PqfNL.js";var n=e(),r={primary:`btn-primary`,secondary:`btn-secondary`};function i({variant:e=`primary`,className:i=``,...a}){return(0,n.jsx)(t,{className:`btn ${r[e]} ${i}`,...a})}export{i as t};
